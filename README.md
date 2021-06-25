@@ -1,4 +1,4 @@
-# **Social Network Web-App Demo**
+# **PWA Budget Tracker**
 
 > ## **_Description_**
 
