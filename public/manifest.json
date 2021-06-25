@@ -1,6 +1,6 @@
 {
-  "name": "Notetaker",
-  "short_name": "Notetaker",
+  "name": "budgetTaker",
+  "short_name": "budgetTaker",
   "icons": [
     {
       "src": "assets/images/icons/icon-72x72.png",
